@@ -46,8 +46,7 @@ The Internal Risk Events are largely derived from this [ENISA](https://www.enisa
 |Information Gathering|Open Source Intelligence Analysis|Confidentiality|
 ||Network Scanning||
 ||Network Sniffing|Confidentiality|
-||
-Social Engineering|Lies|Confidentiality, Integrity|
+||Social Engineering|Lies|Confidentiality, Integrity|
 ||Threats|Confidentiality, Integrity|
 ||Phishing|Confidentiality, Integrity|
 ||Bribes|Confidentiality, Integrity|
